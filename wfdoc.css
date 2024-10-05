@@ -80,20 +80,21 @@ em {
 strong {
 	font-weight: bold;
 }
+/* font-family: Georgia, serif; */
 h1 {
-	font-family: Georgia, serif; color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
+	color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
 }
 h2 {
-	font-family: Georgia, serif; color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
+	color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
 }
 h3 {
-	font-family: Georgia, serif; color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
+	color: rgb(82, 123, 189); line-height: 1; padding-top: 0.5em; padding-bottom: 0.2em; margin-top: 0.7em; margin-bottom: 0.5em; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid;
 }
 h1 {
-	padding-bottom: 0.3em; font-size: 180%;
+	padding-bottom: 0.3em; font-size: 170%;
 }
 h2 {
-	padding-top: 0.8em; font-size: 150%;
+	padding-top: 0.8em; font-size: 140%;
 }
 h2 + h3 {
 	padding-top: 0.2em;
