@@ -6,7 +6,7 @@ html {
 }
 /* font-family: Georgia, serif */
 body {
-	font-size: 17px; font-family:Tahoma, Geneva, sans-serif; margin: 30px auto; padding: 10px 50px 30px; text-align: left; color: rgb(0, 0, 0); max-width: 960px; background-color: rgb(255, 255, 255);
+	font-size: 17px; font-family:Tahoma, Geneva, sans-serif; margin: 30px auto; padding: 10px 50px 30px; text-align: left; color: rgb(0, 0, 0); max-width: 900px; background-color: rgb(255, 255, 255);
 }
 #layout-menu {
 	background: rgb(246, 246, 246); border: 1px solid rgb(221, 221, 221); border-image: none; width: auto; text-align: left; padding-top: 0.5em; padding-right: 8px; padding-left: 8px; font-size: 1em; vertical-align: top; white-space: nowrap;
